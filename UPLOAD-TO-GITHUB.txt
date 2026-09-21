@@ -1,0 +1,7 @@
+1) ZIP را Extract کن.
+2) وارد ریپو CPU-Load-Test3 شو.
+3) Add file -> Upload files را بزن.
+4) تمام محتویات پوشه استخراج‌شده را بکش داخل صفحه؛ پوشه .github هم باید همراهش باشد.
+5) Commit changes را بزن.
+6) از تب Actions، workflow با نام Build APK را باز کن.
+7) بعد از سبز شدن، بخش Artifacts و فایل CPU-Load-Test-APK را باز کن.
